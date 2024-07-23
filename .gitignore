@@ -1,0 +1,4 @@
+.vscode/
+devenv*/
+.devenv*/
+__pycache__/
