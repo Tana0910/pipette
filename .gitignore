@@ -2,3 +2,5 @@
 devenv*/
 .devenv*/
 __pycache__/
+
+instance/
